@@ -1,0 +1,15 @@
+C:\projects\C#\missing number cs\bin\Debug\net7.0\number.exe
+C:\projects\C#\missing number cs\bin\Debug\net7.0\number.deps.json
+C:\projects\C#\missing number cs\bin\Debug\net7.0\number.runtimeconfig.json
+C:\projects\C#\missing number cs\bin\Debug\net7.0\number.dll
+C:\projects\C#\missing number cs\bin\Debug\net7.0\number.pdb
+C:\projects\C#\missing number cs\obj\Debug\net7.0\number.csproj.AssemblyReference.cache
+C:\projects\C#\missing number cs\obj\Debug\net7.0\number.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\missing number cs\obj\Debug\net7.0\number.AssemblyInfoInputs.cache
+C:\projects\C#\missing number cs\obj\Debug\net7.0\number.AssemblyInfo.cs
+C:\projects\C#\missing number cs\obj\Debug\net7.0\number.csproj.CoreCompileInputs.cache
+C:\projects\C#\missing number cs\obj\Debug\net7.0\number.dll
+C:\projects\C#\missing number cs\obj\Debug\net7.0\refint\number.dll
+C:\projects\C#\missing number cs\obj\Debug\net7.0\number.pdb
+C:\projects\C#\missing number cs\obj\Debug\net7.0\number.genruntimeconfig.cache
+C:\projects\C#\missing number cs\obj\Debug\net7.0\ref\number.dll
